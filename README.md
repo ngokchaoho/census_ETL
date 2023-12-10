@@ -17,3 +17,5 @@ docker compose up airflow-init
 docker compose up
 ```
 And you should be able to see the result in localhost browser on `127.0.0.1:8080` with user and password `airflow`
+
+![image](image/screenshot.png)
